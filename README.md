@@ -1,6 +1,6 @@
 # Dialogue Editor
 
-Available at: https://garajnik.github.io/deosit/
+Available at: https://garajnik.github.io/dialogue-editor/
 
 A visual node-based editor for creating branching dialogue trees. Build conversations with plain text or multiple-choice nodes, add translations, and export JSON for use in games or other applications.
 
